@@ -1,0 +1,11 @@
+.cost{
+    margin-right: 1rem;
+    width: fit-content;
+    height: fit-content;
+    padding: 0.2rem 0.5rem;
+    background-color: rgb(4, 55, 75);
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 20px;
+}
